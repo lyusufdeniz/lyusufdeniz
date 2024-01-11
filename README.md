@@ -89,12 +89,6 @@
 <br/>  
 
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=75axhjrp3x6du6cjpnht28iz6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yusuffdeniz&&style=flat-square" align="center" />
 </div>  
