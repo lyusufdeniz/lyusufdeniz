@@ -6,9 +6,6 @@
 ### <div align="center">I'm Yusuf, a full-time backend developer</div>  
   
 
-- 🔭 I’m currently working on MobvenSozlukAPI  
-  
-
 - 🌱 I’m currently learning .NET CORE,RESTFUL APIS,ANGULAR  
   
 
